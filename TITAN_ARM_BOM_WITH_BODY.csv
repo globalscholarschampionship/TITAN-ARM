@@ -1,0 +1,18 @@
+Component,Quantity,Unit Price (INR),Line Total (INR)
+ESP32 DevKit development board,1,600,600
+DS3218 high-torque metal-gear servo,2,879,1758
+MG996R metal-gear servo,2,700,1400
+MG90S metal-gear micro servo,1,400,400
+PCA9685 16-channel servo driver,1,249,249
+Dual-axis joystick module,2,42,84
+"Regulated servo power supply (5–6V, suitably rated)",1,1750,1750
+"Power distribution, fuse and protection",1,400,400
+Structural material (plywood/aluminium),1,1150,1150
+Laser-cut acrylic panels,1,1150,1150
+Turntable bearing,1,375,375
+Joint bearings and shafts,1,450,450
+"Nuts, bolts, spacers and brackets",1,375,375
+"Wires, connectors and cable management",1,325,325
+LEDs and small status display,1,275,275
+Shipping,1,2000,2000
+Robocraze 6DOF Robotic Arm Metal Bracket Kit (frame only),1,4714,4714
